@@ -1,0 +1,116 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+
+cv:
+  name: Vikrant Chaudhary
+  headline: Manual QA Engineer (Web | Mobile | API | Agile)
+  location: Noida, India
+  email: chaudharyvikrant781@gmail.com
+  phone: +91 89582 72101
+
+  social_networks:
+    - network: LinkedIn
+      username: vikrant-chaudhary
+
+  sections:
+    Professional Summary:
+      - Detail-oriented Manual QA Engineer with hands-on experience gained through structured training and internship in testing Web, iOS, and Android applications. Skilled in manual testing, API validation, defect lifecycle management, and Agile QA practices. Experienced in ensuring functional and non-functional quality for AI-based proctoring and examination platforms.
+
+    Tech Stack:
+      - label: Testing
+        details: Manual Testing, Web Testing, Mobile Testing (iOS/Android), API Testing, Security Testing
+      - label: Testing Types
+        details: Black Box, Gray Box, Smoke, Integration, System, Regression, UAT, Database Testing
+      - label: Tools
+        details: Jira, TestLink, OpenProject, Plane, Postman, OWASP ZAP, MySQL Workbench
+      - label: Methodologies
+        details: Agile/Scrum, Defect Tracking, Test Case Design, Client Demos
+
+    Experience:
+      - company: Pioneering The Future Pvt. Ltd.
+        position: Manual QA Engineer – Training Period
+        location: Noida, India
+        start_date: 2025-07
+        end_date: 2025-12
+        highlights:
+          - Completed a structured 6-month QA training program focused on real-world web and mobile applications.
+          - Learned and applied manual testing techniques including Smoke, Integration, System, Regression, and UAT testing.
+          - Performed API testing using Postman to validate request/response data and authentication flows.
+          - Practiced defect logging, tracking, and verification using Jira and TestLink.
+          - Gained exposure to AI-based proctoring workflows including webcam and microphone validation.
+
+      - company: Pioneering The Future Pvt. Ltd.
+        position: Manual QA Engineer Intern
+        location: Noida, India
+        start_date: 2025-01
+        end_date: 2025-06
+        highlights:
+          - Completed a 6-month QA internship performing end-to-end manual testing for Web, iOS, and Android applications.
+          - Executed Black Box, Smoke, Integration, System, Regression, and UAT testing across Admin, Proctor, and Candidate panels.
+          - Performed API testing using Postman, validating endpoints, authentication, and system integrations.
+          - Logged, tracked, and verified defects in staging environments, ensuring stable releases.
+          - Collaborated with developers and QA team members during Agile sprints and daily standups.
+          - Supported client demos and issue verification, contributing to reduced repetitive support queries.
+
+    Projects:
+      - name: BlinkExam – Online Examination & AI Proctoring Platform
+        summary: Manual QA project for an AI-driven online examination and live proctoring system.
+        highlights:
+          - Performed manual QA on a secure online examination platform with AI-based live proctoring.
+          - Executed cross-platform testing across Web, iOS, and Android modules.
+          - Validated real-time audio/video streaming, alerts, and behavior tracking during exams.
+          - Conducted API testing to verify backend services, authentication, and data integrity.
+          - Tested Admin, Proctor/Invigilator, Client, and Candidate panels for role-based functionality.
+
+    Skills:
+      - label: QA & Testing
+        details: Manual Testing, Web & Mobile Testing, API Testing, Security Testing
+      - label: Testing Techniques
+        details: Black Box, Gray Box, Smoke, Integration, Regression, System, UAT
+      - label: Tools & Platforms
+        details: Jira, TestLink, OpenProject, Plane, Postman, OWASP ZAP, MySQL Workbench
+      - label: Technical Exposure
+        details: Basic Automation (Selenium IDE), API Validation, QA for Proctoring Systems
+      - label: Soft Skills
+        details: Client Communication, Demo Support, Team Collaboration
+
+    Education:
+      - institution: Mangalayatan University
+        area: Computer Applications
+        degree: MCA
+        location: Aligarh, India
+        date: 2024 – 2026
+        summary: "Pursuing"
+
+      - institution: QSpiders, Noida
+        area: Software Testing
+        degree: QA
+        location: Noida, India
+        date: 2023
+        summary: "Certified in Manual Testing, Test Case Design, SDLC, STLC, and Defect Management"
+
+      - institution: Maa Shakumbhari University
+        area: Arts
+        degree: M.A
+        location: Saharanpur, India
+        date: 2023
+
+      - institution: Chaudhary Charan Singh University
+        area: Arts
+        degree: B.A
+        location: Meerut, India
+        date: 2021
+
+      - institution: Heritage Public School
+        area: Higher Secondary (12th)
+        degree: 12th
+        location: Muzaffarnagar, India
+        date: 2017
+
+design:
+  theme: classic
+  typography:
+    alignment: left
+    line_spacing: 0.75em
+
+locale:
+  language: english
