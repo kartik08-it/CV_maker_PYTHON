@@ -1,100 +1,126 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
-
 cv:
-  name: Vikrant Chaudhary
-  headline: Manual QA Engineer Intern (Web | Mobile | API | Agile)
+  name: Kartik Upadhayay
+  headline: Full Stack Developer (Laravel | CodeIgniter | React | React Native | MySQL | Linux)
   location: Noida, India
-  email: chaudharyvikrant781@gmail.com
-  phone: +91 89582 72101
+  email: kartiku03@gmail.com
+  phone: "+91 7088586048"
 
   social_networks:
     - network: LinkedIn
-      username: vikrant-chaudhary
+      username: kartik-upadhayay-77b722148
+    - network: GitHub
+      username: kartik08-it
 
   sections:
     Professional Summary:
-      - Detail-oriented Manual QA Engineer Intern with 6 months of hands-on experience in testing Web, iOS, and Android applications. Skilled in end-to-end manual testing, API validation, defect lifecycle management, and Agile QA processes. Experienced in ensuring functional, non-functional, and security quality for AI-based proctoring and examination platforms.
+      - Full Stack Developer with 2.8 years of experience building scalable web applications using Laravel, React, React Native, TypeScript and CodeIgniter. Skilled in API development, system optimization, and delivering secure, high-performance solutions.
 
     Tech Stack:
-      - label: Testing
-        details: Manual Testing, Web Testing, Mobile Testing (iOS/Android), API Testing, Security Testing
-      - label: Testing Types
-        details: Black Box, Gray Box, Smoke, Integration, System, Regression, UAT, Database Testing
+      - label: Backend
+        details: PHP, Laravel, CodeIgniter, REST APIs, SOAP APIs
+      - label: Frontend
+        details: React,React Native, TypeScript, HTML5, CSS3, JavaScript
+      - label: Database
+        details: MySQL, Query Optimization
       - label: Tools
-        details: Jira, TestLink, OpenProject, Plane, Postman, OWASP ZAP, MySQL Workbench
-      - label: Methodologies
-        details: Agile/Scrum, Defect Tracking, Test Case Design, Client Demos
+        details: Git, GitHub, Postman, Linux, Docker
 
     Experience:
-      - company: Pioneering The Future Pvt. Ltd.
-        position: Manual QA Engineer Intern
+      - company: Pioneering The Future
+        position: Software Developer
         location: Noida, India
-        start_date: 2023-10
-        end_date: 2024-03
+        start_date: 2023-09
+        end_date: 2026-01
         highlights:
-          - Completed a 6-month QA internship performing end-to-end manual testing for Web, iOS, and Android applications.
-          - Executed Black Box, Smoke, Integration, System, Regression, and UAT testing across Admin, Proctor, and Candidate panels.
-          - Performed API testing using Postman, validating endpoints, authentication, request/response data, and integrations.
-          - Logged, tracked, and verified defects across staging environments, ensuring timely resolution and quality releases.
-          - Assisted in QA for AI-based proctoring workflows including webcam/microphone validation and live monitoring.
-          - Collaborated with developers and senior QA engineers during Agile sprints and daily standups.
-          - Supported client demos and issue verification, contributing to reduced repetitive support queries.
+          - Migrated SOAP APIs to REST, improving performance and maintainability.
+          - Developed RESTful APIs using Laravel MVC architecture for scalable backend systems.
+          - Implemented RBAC and Two-Factor Authentication to enhance system security.
+          - Automated backend workflows, reducing manual effort by 40%.
+          - Developed responsive UIs using React and Material-UI.
+          - Collaborated in Agile teams to deliver scalable production features.
+
+      - company: Webverse IT
+        position: Software Developer
+        location: Noida, India
+        start_date: 2026-01-27
+        end_date: present
+        highlights:
+          - Developed full-stack applications using CodeIgniter (HMVC architecture).
+          - Integrated client APIs for demand-supply workflows in market research systems.
+          - Built and maintained REST APIs for external integrations.
+          - Optimized database queries to improve performance.
 
     Projects:
-      - name: BlinkExam – Online Examination & AI Proctoring Platform
-        summary: Manual QA internship project for an AI-driven online examination system.
-        highlights:
-          - Performed manual QA on a secure online examination platform with live AI-based proctoring.
-          - Executed cross-platform testing for Web, iOS, and Android modules including registration, exams, and reporting.
-          - Validated real-time audio/video streaming and alert generation during live sessions.
-          - Conducted API testing to verify backend services, authentication, and data integrity.
-          - Tested Admin, Proctor/Invigilator, Client, and Candidate panels for role-based functionality.
-          - Followed Agile QA workflows using Jira, TestLink, OpenProject, and OWASP ZAP.
+    - name: BlinkExam Platform (Admin + Candidate Panel)
+      highlights:
+        - Developed and enhanced admin dashboards (React) with RBAC and dynamic workflows.
+        - Built Laravel APIs for AngularJS-based candidate panel.
+        - Migrated legacy SOAP APIs to REST with backward compatibility.
+        - Implemented validation, authentication, and queue-based processing for scalable APIs.
+        - Developed dynamic email templates for transactional communication.
 
+    - name: Proctoring & Invigilation System
+      highlights:
+        - Built real-time monitoring system using WebSockets for candidate tracking.
+        - Implemented role-based dynamic panels for Proctor and Invigilator (single repo, rule-based access).
+        - Reduced response latency by 50% and improved monitoring efficiency.
+
+    - name: BlinkExam Mobile App (React Native)
+      highlights:
+          - Developed cross-platform mobile application using React Native for candidate exam interface.
+          - Integrated secure authentication and API-based data handling.
+          - Optimized performance for smooth real-time interactions during exams.
+          - Ensured responsive UI/UX for multiple screen sizes and devices.
+    - name: SuperAdmin Panel (Pioneering The Future)
+      highlights:
+        - Developed secure admin system with RBAC and Two-Factor Authentication.
+        - Built scalable dashboards and system-level controls for platform management.
+        - Improved auditability and operational control.
+
+    - name: CRM & Market Research Platform (Webverse IT)
+      highlights:
+        - Developed full-stack CRM features using CodeIgniter (HMVC architecture).
+        - Integrated client APIs for demand-supply workflows in market research systems.
+        - Optimized database queries and backend performance.
+
+    - name: WordPress Website Optimization
+      highlights:
+        - Optimized websites using Elementor & WPBakery.
+        - Improved SEO performance, engagement, and lead conversion.
+
+    - name: Email Template System
+      highlights:
+        - Built reusable email templates using Laravel Blade.
+        - Increased email engagement by 20%.
     Skills:
-      - label: QA & Testing
-        details: Manual Testing, Web & Mobile Testing, API Testing, Security Testing
-      - label: Testing Techniques
-        details: Black Box, Gray Box, Smoke, Integration, Regression, System, UAT
-      - label: Tools & Platforms
-        details: Jira, TestLink, OpenProject, Plane, Postman, OWASP ZAP, MySQL Workbench
-      - label: Technical Exposure
-        details: Basic Automation (Selenium IDE), API Validation, QA for Proctoring Systems
-      - label: Soft Skills
-        details: Client Communication, Demo Support, Team Collaboration
+      - label: Core
+        details: PHP, Laravel, CodeIgniter, React, React Native, TypeScript
+      - label: Web
+        details: REST APIs, SOAP, HTML, CSS, JavaScript
+      - label: Database & Tools
+        details: MySQL, Git, Postman, Linux, Docker
 
     Education:
-      - institution: Mangalayatan University
-        area: Computer Applications
-        degree: Master of Computer Applications (MCA)
-        location: Aligarh, India
-        date: 2024 – 2026
-        summary: "Pursuing"
+      - institution: D.A.V PG College
+        area: Physics, Maths, Computer Science
+        degree: B.Sc.
+        location: Muzaffarnagar, U.P.
+        date: 2020
+        summary: "Grade: 68%"
 
-      - institution: QSpiders, Noida
-        area: Software Testing
-        degree: Certification – Manual QA Testing
-        location: Noida, India
-        date: 2023
-        summary: "Certified in Manual Testing, Test Case Design, SDLC, STLC, and Defect Management"
+      - institution: LJP SVM Inter College
+        area: Physics, Chemistry, Mathematics
+        degree: 12th
+        location: Muzaffarnagar, U.P.
+        date: 2016
+        summary: "Grade: 70%"
 
-      - institution: Maa Shakumbhari University
-        area: Arts
-        degree: Master of Arts
-        location: Saharanpur, India
-        date: 2023
-
-      - institution: Chaudhary Charan Singh University
-        area: Arts
-        degree: Bachelor of Arts
-        location: Meerut, India
-        date: 2021
-
-      - institution: Heritage Public School
-        area: Higher Secondary (12th)
-        degree: Senior Secondary
-        location: Muzaffarnagar, India
-        date: 2017
+      - institution: LJP SVM Inter College
+        area: General Studies
+        degree: 10th
+        location: Muzaffarnagar, U.P.
+        date: 2014
+        summary: "Grade: 78%"
 
 design:
   theme: classic
