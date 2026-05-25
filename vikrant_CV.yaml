@@ -13,7 +13,7 @@ cv:
 
   sections:
     Professional Summary:
-      - Detail-oriented Manual QA Engineer with hands-on experience gained through structured training and internship in testing Web, iOS, and Android applications. Skilled in manual testing, API validation, defect lifecycle management, and Agile QA practices. Experienced in ensuring functional and non-functional quality for AI-based proctoring and examination platforms.
+      - ISTQB-certified Manual QA Engineer with 2+ years of hands-on experience testing Web, iOS, and Android applications across diverse domains including AI-based proctoring, online examination platforms, and enterprise web products. Proficient in end-to-end manual testing, API validation, security testing, and defect lifecycle management within Agile/Scrum environments. Demonstrated ability to collaborate with cross-functional teams, support client demos, and drive quality throughout the software development lifecycle. Adept at delivering stable, reliable releases through rigorous functional and non-functional testing practices.
 
     Tech Stack:
       - label: Testing
@@ -26,25 +26,38 @@ cv:
         details: Agile/Scrum, Defect Tracking, Test Case Design, Client Demos
 
     Experience:
-      - company: Pioneering The Future Pvt. Ltd.
-        position: Manual QA Engineer – Training Period
+      - company: Apinvantiv
+        position: Manual QA Engineer
         location: Noida, India
-        start_date: 2025-07
-        end_date: 2025-12
+        start_date: 2026-02
+        end_date: present
         highlights:
-          - Completed a structured 6-month QA training program focused on real-world web and mobile applications.
+          - Performing end-to-end manual testing for web and mobile applications across multiple client projects.
+          - Designing and executing test cases for functional, regression, and integration testing cycles.
+          - Conducting API testing using Postman to validate RESTful endpoints, authentication flows, and data integrity.
+          - Collaborating with development teams in Agile sprints, participating in daily standups and sprint reviews.
+          - Logging and tracking defects in project management tools, ensuring timely resolution and verification.
+          - Contributing to test planning, test strategy documentation, and release sign-off activities.
+
+      - company: Pioneering The Future Pvt. Ltd.
+        position: Manual QA Engineer
+        location: Noida, India
+        start_date: 2024-01
+        end_date: 2026-02
+        highlights:
+          - Worked as a full-time Manual QA Engineer focused on real-world web and mobile applications.
           - Learned and applied manual testing techniques including Smoke, Integration, System, Regression, and UAT testing.
           - Performed API testing using Postman to validate request/response data and authentication flows.
           - Practiced defect logging, tracking, and verification using Jira and TestLink.
           - Gained exposure to AI-based proctoring workflows including webcam and microphone validation.
-
+ 
       - company: Pioneering The Future Pvt. Ltd.
-        position: Manual QA Engineer Intern
+        position: Manual QA Engineer Trainee
         location: Noida, India
-        start_date: 2025-01
-        end_date: 2025-06
+        start_date: 2023-08
+        end_date: 2024-01
         highlights:
-          - Completed a 6-month QA internship performing end-to-end manual testing for Web, iOS, and Android applications.
+          - Worked as a Manual QA Trainee performing end-to-end manual testing for Web, iOS, and Android applications.
           - Executed Black Box, Smoke, Integration, System, Regression, and UAT testing across Admin, Proctor, and Candidate panels.
           - Performed API testing using Postman, validating endpoints, authentication, and system integrations.
           - Logged, tracked, and verified defects in staging environments, ensuring stable releases.
@@ -79,14 +92,6 @@ cv:
         degree: MCA
         location: Aligarh, India
         date: 2024 – 2026
-        summary: "Pursuing"
-
-      - institution: QSpiders, Noida
-        area: Software Testing
-        degree: QA
-        location: Noida, India
-        date: 2023
-        summary: "Certified in Manual Testing, Test Case Design, SDLC, STLC, and Defect Management"
 
       - institution: Maa Shakumbhari University
         area: Arts
@@ -105,6 +110,12 @@ cv:
         degree: 12th
         location: Muzaffarnagar, India
         date: 2017
+
+    Certifications:
+      - label: ISTQB
+        details: ISTQB Certified Tester (2026)
+      - label: QSpiders
+        details: Certified in Manual Testing, Test Case Design, SDLC, STLC, and Defect Management (2023)
 
 design:
   theme: classic

@@ -1,100 +1,119 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
-
 cv:
-  name: Vikrant Chaudhary
-  headline: Manual QA Engineer Intern (Web | Mobile | API | Agile)
+  name: Kartik Upadhayay
+  headline: Full Stack Developer (PHP | Laravel | CodeIgniter | React | Java | Spring Boot | MySQL | Linux)
   location: Noida, India
-  email: chaudharyvikrant781@gmail.com
-  phone: +91 89582 72101
+  email: kartiku03@gmail.com
+  phone: "+91 7088586048"
 
   social_networks:
     - network: LinkedIn
-      username: vikrant-chaudhary
+      username: kartik-upadhayay-77b722148
+    - network: GitHub
+      username: kartik08-it
 
   sections:
     Professional Summary:
-      - Detail-oriented Manual QA Engineer Intern with 6 months of hands-on experience in testing Web, iOS, and Android applications. Skilled in end-to-end manual testing, API validation, defect lifecycle management, and Agile QA processes. Experienced in ensuring functional, non-functional, and security quality for AI-based proctoring and examination platforms.
-
-    Tech Stack:
-      - label: Testing
-        details: Manual Testing, Web Testing, Mobile Testing (iOS/Android), API Testing, Security Testing
-      - label: Testing Types
-        details: Black Box, Gray Box, Smoke, Integration, System, Regression, UAT, Database Testing
-      - label: Tools
-        details: Jira, TestLink, OpenProject, Plane, Postman, OWASP ZAP, MySQL Workbench
-      - label: Methodologies
-        details: Agile/Scrum, Defect Tracking, Test Case Design, Client Demos
-
-    Experience:
-      - company: Pioneering The Future Pvt. Ltd.
-        position: Manual QA Engineer Intern
-        location: Noida, India
-        start_date: 2023-10
-        end_date: 2024-03
-        highlights:
-          - Completed a 6-month QA internship performing end-to-end manual testing for Web, iOS, and Android applications.
-          - Executed Black Box, Smoke, Integration, System, Regression, and UAT testing across Admin, Proctor, and Candidate panels.
-          - Performed API testing using Postman, validating endpoints, authentication, request/response data, and integrations.
-          - Logged, tracked, and verified defects across staging environments, ensuring timely resolution and quality releases.
-          - Assisted in QA for AI-based proctoring workflows including webcam/microphone validation and live monitoring.
-          - Collaborated with developers and senior QA engineers during Agile sprints and daily standups.
-          - Supported client demos and issue verification, contributing to reduced repetitive support queries.
-
-    Projects:
-      - name: BlinkExam – Online Examination & AI Proctoring Platform
-        summary: Manual QA internship project for an AI-driven online examination system.
-        highlights:
-          - Performed manual QA on a secure online examination platform with live AI-based proctoring.
-          - Executed cross-platform testing for Web, iOS, and Android modules including registration, exams, and reporting.
-          - Validated real-time audio/video streaming and alert generation during live sessions.
-          - Conducted API testing to verify backend services, authentication, and data integrity.
-          - Tested Admin, Proctor/Invigilator, Client, and Candidate panels for role-based functionality.
-          - Followed Agile QA workflows using Jira, TestLink, OpenProject, and OWASP ZAP.
+      - Full Stack Developer with 2.8+ years of experience building scalable SaaS, product-based, and service-based web applications using Laravel, React, TypeScript, Java, Spring Boot, and CodeIgniter. Experienced in developing CRM, ERP, HRMS, examination, and real-time monitoring systems with expertise in REST APIs, authentication systems, RBAC, WebSockets, database optimization, and enterprise application development. Skilled in delivering secure, high-performance, and scalable solutions across backend, frontend, and cloud-ready architectures.
 
     Skills:
-      - label: QA & Testing
-        details: Manual Testing, Web & Mobile Testing, API Testing, Security Testing
-      - label: Testing Techniques
-        details: Black Box, Gray Box, Smoke, Integration, Regression, System, UAT
-      - label: Tools & Platforms
-        details: Jira, TestLink, OpenProject, Plane, Postman, OWASP ZAP, MySQL Workbench
-      - label: Technical Exposure
-        details: Basic Automation (Selenium IDE), API Validation, QA for Proctoring Systems
-      - label: Soft Skills
-        details: Client Communication, Demo Support, Team Collaboration
+      - label: Backend
+        details: PHP, Laravel, CodeIgniter (HMVC), Java, Spring Boot, REST APIs, SOAP APIs, MVC Architecture, Authentication & Authorization
+      - label: Frontend
+        details: React.js, TypeScript, JavaScript, HTML5, CSS3, Material-UI, Responsive UI Development
+      - label: Database
+        details: MySQL, Query Optimization, Database Design
+      - label: Tools
+        details: Git, GitHub, Linux, Docker, Postman, Agile/Scrum, API Integration
+      - label: Architecture & Concepts
+        details: RBAC, Two-Factor Authentication, SaaS Applications, CRM, ERP, HRMS, RBAC, WebSockets, RESTful Services,
 
-    Education:
-      - institution: Mangalayatan University
-        area: Computer Applications
-        degree: Master of Computer Applications (MCA)
-        location: Aligarh, India
-        date: 2024 – 2026
-        summary: "Pursuing"
-
-      - institution: QSpiders, Noida
-        area: Software Testing
-        degree: Certification – Manual QA Testing
+    Experience:
+      - company: Webverse IT
+        position: Software Developer
         location: Noida, India
-        date: 2023
-        summary: "Certified in Manual Testing, Test Case Design, SDLC, STLC, and Defect Management"
+        start_date: 2026-01-27
+        end_date: present
+        highlights:
+          - Worked on service-based full-stack applications using CodeIgniter HMVC architecture.
+          - Worked on CRM and market research platforms with client-specific workflow customizations.
+          - Integrated third-party and client APIs for demand-supply workflow systems.
+          - Built and maintained REST APIs for external integrations and enterprise applications.
+          - Optimized MySQL queries and backend systems for better scalability and performance.
+          - Contributed to Java and Spring Boot backend modules for enterprise-level applications.
+          - Collaborated with cross-functional teams to deliver client-specific solutions and features.
 
-      - institution: Maa Shakumbhari University
-        area: Arts
-        degree: Master of Arts
-        location: Saharanpur, India
-        date: 2023
+      - company: Pioneering The Future
+        position: Software Developer
+        location: Noida, India
+        start_date: 2023-09
+        end_date: 2026-01
+        highlights:
+          - Worked on BlinkExam, a SaaS-based examination and assessment platform used for large-scale online examinations.
+          - Developed scalable product-based backend systems using Laravel MVC architecture and RESTful APIs.
+          - Migrated legacy SOAP APIs to REST APIs, improving performance, maintainability, and third-party integrations.
+          - Implemented RBAC, Two-Factor Authentication, and authentication workflows for enterprise-grade security.
+          - Developed responsive and dynamic frontend modules using React.js, TypeScript, and Material-UI.
+          - Built ERP and HRMS-related admin functionalities and workflow automation modules.
+          - Automated backend workflows, reducing manual effort by 40%.
+          - Collaborated in Agile/Scrum teams to deliver scalable production-ready features.
 
-      - institution: Chaudhary Charan Singh University
-        area: Arts
-        degree: Bachelor of Arts
-        location: Meerut, India
-        date: 2021
+    Projects:
+      - name: BlinkExam Platform (SaaS-Based Examination Product)
+        highlights:
+          - Developed and enhanced SaaS-based examination platform modules for Admin and Candidate Panels.
+          - Built scalable Laravel APIs for examination workflows, candidate management, and assessment systems.
+          - Developed React.js admin dashboards with RBAC and dynamic workflow management.
+          - Migrated legacy SOAP services to REST APIs with backward compatibility support.
+          - Implemented authentication, validation, queue-based processing, and scalable API workflows.
+          - Built reusable email template systems for transactional communication and notifications.
 
-      - institution: Heritage Public School
-        area: Higher Secondary (12th)
-        degree: Senior Secondary
-        location: Muzaffarnagar, India
-        date: 2017
+      - name: Proctoring & Invigilation System
+        highlights:
+          - Built real-time monitoring system using WebSockets for candidate tracking.
+          - Implemented role-based dynamic panels for Proctor and Invigilator (single repo, rule-based access).
+          - Reduced response latency by 50% and improved monitoring efficiency.
+
+      - name: SuperAdmin Panel (Pioneering The Future)
+        highlights:
+          - Developed secure admin system with RBAC and Two-Factor Authentication.
+          - Built scalable dashboards and system-level controls for platform management.
+          - Improved auditability and operational control.
+
+      - name: CRM & Market Research Platform (Webverse IT)
+        highlights:
+          - Developed full-stack CRM features using CodeIgniter (HMVC architecture).
+          - Integrated client APIs for demand-supply workflows in market research systems.
+          - Optimized database queries and backend performance.
+
+      - name: HRMS Panel
+        highlights:
+          - Developed HRMS modules for employee management, attendance, leave tracking, and payroll workflows.
+          - Built REST APIs using Spring Boot for HR operations and data management.
+          - Created responsive frontend components using React and TypeScript.
+          - Implemented role-based access control and authentication for HR and Admin users.
+          - Optimized MySQL queries and backend performance for large employee datasets.
+          
+    Education:
+      - institution: D.A.V PG College
+        area: Physics, Maths, Computer Science
+        degree: B.Sc.
+        location: Muzaffarnagar, U.P.
+        date: 2020
+        summary: "Grade: 68%"
+
+      - institution: LJP SVM Inter College
+        area: Physics, Chemistry, Mathematics
+        degree: 12th
+        location: Muzaffarnagar, U.P.
+        date: 2016
+        summary: "Grade: 70%"
+
+      - institution: LJP SVM Inter College
+        area: General Studies
+        degree: 10th
+        location: Muzaffarnagar, U.P.
+        date: 2014
+        summary: "Grade: 78%"
 
 design:
   theme: classic
