@@ -1,6 +1,6 @@
 cv:
   name: Kartik Upadhayay
-  headline: Full Stack Developer (Laravel | CodeIgniter | React | React Native | MySQL | Linux)
+  headline: Full Stack Developer (PHP | Laravel | CodeIgniter | React | Java | Spring Boot | MySQL | Linux)
   location: Noida, India
   email: kartiku03@gmail.com
   phone: "+91 7088586048"
@@ -13,93 +13,86 @@ cv:
 
   sections:
     Professional Summary:
-      - Full Stack Developer with 2.8 years of experience building scalable web applications using Laravel, React, React Native, TypeScript and CodeIgniter. Skilled in API development, system optimization, and delivering secure, high-performance solutions.
+      - Full Stack Developer with 2.8+ years of experience building scalable SaaS, product-based, and service-based web applications using Laravel, React, TypeScript, Java, Spring Boot, and CodeIgniter. Experienced in developing CRM, ERP, HRMS, examination, and real-time monitoring systems with expertise in REST APIs, authentication systems, RBAC, WebSockets, database optimization, and enterprise application development. Skilled in delivering secure, high-performance, and scalable solutions across backend, frontend, and cloud-ready architectures.
 
-    Tech Stack:
+    Skills:
       - label: Backend
-        details: PHP, Laravel, CodeIgniter, REST APIs, SOAP APIs
+        details: PHP, Laravel, CodeIgniter (HMVC), Java, Spring Boot, REST APIs, SOAP APIs, MVC Architecture, Authentication & Authorization
       - label: Frontend
-        details: React,React Native, TypeScript, HTML5, CSS3, JavaScript
+        details: React.js, TypeScript, JavaScript, HTML5, CSS3, Material-UI, Responsive UI Development
       - label: Database
-        details: MySQL, Query Optimization
+        details: MySQL, Query Optimization, Database Design
       - label: Tools
-        details: Git, GitHub, Postman, Linux, Docker
+        details: Git, GitHub, Linux, Docker, Postman, Agile/Scrum, API Integration
+      - label: Architecture & Concepts
+        details: RBAC, Two-Factor Authentication, SaaS Applications, CRM, ERP, HRMS, RBAC, WebSockets, RESTful Services,
 
     Experience:
-      - company: Pioneering The Future
-        position: Software Developer
-        location: Noida, India
-        start_date: 2023-09
-        end_date: 2026-01
-        highlights:
-          - Migrated SOAP APIs to REST, improving performance and maintainability.
-          - Developed RESTful APIs using Laravel MVC architecture for scalable backend systems.
-          - Implemented RBAC and Two-Factor Authentication to enhance system security.
-          - Automated backend workflows, reducing manual effort by 40%.
-          - Developed responsive UIs using React and Material-UI.
-          - Collaborated in Agile teams to deliver scalable production features.
-
       - company: Webverse IT
         position: Software Developer
         location: Noida, India
         start_date: 2026-01-27
         end_date: present
         highlights:
-          - Developed full-stack applications using CodeIgniter (HMVC architecture).
-          - Integrated client APIs for demand-supply workflows in market research systems.
-          - Built and maintained REST APIs for external integrations.
-          - Optimized database queries to improve performance.
+          - Worked on service-based full-stack applications using CodeIgniter HMVC architecture.
+          - Worked on CRM and market research platforms with client-specific workflow customizations.
+          - Integrated third-party and client APIs for demand-supply workflow systems.
+          - Built and maintained REST APIs for external integrations and enterprise applications.
+          - Optimized MySQL queries and backend systems for better scalability and performance.
+          - Contributed to Java and Spring Boot backend modules for enterprise-level applications.
+          - Collaborated with cross-functional teams to deliver client-specific solutions and features.
+
+      - company: Pioneering The Future
+        position: Software Developer
+        location: Noida, India
+        start_date: 2023-09
+        end_date: 2026-01
+        highlights:
+          - Worked on BlinkExam, a SaaS-based examination and assessment platform used for large-scale online examinations.
+          - Developed scalable product-based backend systems using Laravel MVC architecture and RESTful APIs.
+          - Migrated legacy SOAP APIs to REST APIs, improving performance, maintainability, and third-party integrations.
+          - Implemented RBAC, Two-Factor Authentication, and authentication workflows for enterprise-grade security.
+          - Developed responsive and dynamic frontend modules using React.js, TypeScript, and Material-UI.
+          - Built ERP and HRMS-related admin functionalities and workflow automation modules.
+          - Automated backend workflows, reducing manual effort by 40%.
+          - Collaborated in Agile/Scrum teams to deliver scalable production-ready features.
 
     Projects:
-    - name: BlinkExam Platform (Admin + Candidate Panel)
-      highlights:
-        - Developed and enhanced admin dashboards (React) with RBAC and dynamic workflows.
-        - Built Laravel APIs for AngularJS-based candidate panel.
-        - Migrated legacy SOAP APIs to REST with backward compatibility.
-        - Implemented validation, authentication, and queue-based processing for scalable APIs.
-        - Developed dynamic email templates for transactional communication.
+      - name: BlinkExam Platform (SaaS-Based Examination Product)
+        highlights:
+          - Developed and enhanced SaaS-based examination platform modules for Admin and Candidate Panels.
+          - Built scalable Laravel APIs for examination workflows, candidate management, and assessment systems.
+          - Developed React.js admin dashboards with RBAC and dynamic workflow management.
+          - Migrated legacy SOAP services to REST APIs with backward compatibility support.
+          - Implemented authentication, validation, queue-based processing, and scalable API workflows.
+          - Built reusable email template systems for transactional communication and notifications.
 
-    - name: Proctoring & Invigilation System
-      highlights:
-        - Built real-time monitoring system using WebSockets for candidate tracking.
-        - Implemented role-based dynamic panels for Proctor and Invigilator (single repo, rule-based access).
-        - Reduced response latency by 50% and improved monitoring efficiency.
+      - name: Proctoring & Invigilation System
+        highlights:
+          - Built real-time monitoring system using WebSockets for candidate tracking.
+          - Implemented role-based dynamic panels for Proctor and Invigilator (single repo, rule-based access).
+          - Reduced response latency by 50% and improved monitoring efficiency.
 
-    - name: BlinkExam Mobile App (React Native)
-      highlights:
-          - Developed cross-platform mobile application using React Native for candidate exam interface.
-          - Integrated secure authentication and API-based data handling.
-          - Optimized performance for smooth real-time interactions during exams.
-          - Ensured responsive UI/UX for multiple screen sizes and devices.
-    - name: SuperAdmin Panel (Pioneering The Future)
-      highlights:
-        - Developed secure admin system with RBAC and Two-Factor Authentication.
-        - Built scalable dashboards and system-level controls for platform management.
-        - Improved auditability and operational control.
+      - name: SuperAdmin Panel (Pioneering The Future)
+        highlights:
+          - Developed secure admin system with RBAC and Two-Factor Authentication.
+          - Built scalable dashboards and system-level controls for platform management.
+          - Improved auditability and operational control.
 
-    - name: CRM & Market Research Platform (Webverse IT)
-      highlights:
-        - Developed full-stack CRM features using CodeIgniter (HMVC architecture).
-        - Integrated client APIs for demand-supply workflows in market research systems.
-        - Optimized database queries and backend performance.
+      - name: CRM & Market Research Platform (Webverse IT)
+        highlights:
+          - Developed full-stack CRM features using CodeIgniter (HMVC architecture).
+          - Integrated client APIs for demand-supply workflows in market research systems.
+          - Optimized database queries and backend performance.
 
-    - name: WordPress Website Optimization
-      highlights:
-        - Optimized websites using Elementor & WPBakery.
-        - Improved SEO performance, engagement, and lead conversion.
-
-    - name: Email Template System
-      highlights:
-        - Built reusable email templates using Laravel Blade.
-        - Increased email engagement by 20%.
-    Skills:
-      - label: Core
-        details: PHP, Laravel, CodeIgniter, React, React Native, TypeScript
-      - label: Web
-        details: REST APIs, SOAP, HTML, CSS, JavaScript
-      - label: Database & Tools
-        details: MySQL, Git, Postman, Linux, Docker
-
+      - name: HRMS Panel
+        highlights:
+          - Developed HRMS modules for employee management, attendance, leave tracking, and payroll workflows.
+          - Built REST APIs using Spring Boot for HR operations and data management.
+          - Created responsive frontend components using React and TypeScript.
+          - Implemented role-based access control and authentication for HR and Admin users.
+          - Optimized MySQL queries and backend performance for large employee datasets.
+          
     Education:
       - institution: D.A.V PG College
         area: Physics, Maths, Computer Science
